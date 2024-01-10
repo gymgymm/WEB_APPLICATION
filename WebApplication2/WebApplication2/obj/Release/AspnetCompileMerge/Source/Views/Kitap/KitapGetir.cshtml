@@ -1,0 +1,66 @@
+﻿@using WebApplication2.Models.Entity
+@model WebApplication2.Models.Entity.TBLKITAP
+@{
+    ViewBag.Title = "KitapGetir";
+    Layout = "~/Views/Shared/Layout.cshtml";
+}
+@{
+    var listem = ViewBag.dgr3 as List<TBLKATEGORI>;
+    var listem1 = ViewBag.dgr4  as List<TBLYAZAR>;
+
+}
+
+@using (Html.BeginForm("KitapGuncelle", "Kitap", FormMethod.Post))
+{
+    <div style="margin-bottom:15px"></div>
+    <div class="form-group">
+        <div>
+            <div style="margin-bottom:15px"></div>
+            <label>Kitap ID</label>
+            @Html.TextBoxFor(k => k.ID, new { @class = "form-control" })
+        </div>
+        <div>
+            <div style="margin-bottom:15px"></div>
+            <label>Kitap Adı</label>
+            @Html.TextBoxFor(k => k.AD, new { @class = "form-control" })
+        </div>
+        <div>
+            <div style="margin-bottom:15px"></div>
+            <label>Kategori Adı</label>
+            @Html.DropDownListFor(k => k.KATEGORI,
+    new SelectList(listem, "ID", "AD"),
+    "-- Kategori Seçiniz --",
+    new { @class = "form-control" })
+        </div>
+        <div>
+            <div style="margin-bottom:15px"></div>
+            <label>Kitap Yazarı</label>
+            @Html.DropDownListFor(k => k.YAZAR,
+new SelectList(listem1, "ID", "AD"),
+"-- Kategori Seçiniz --",
+new { @class = "form-control" })
+        </div>
+
+        <div>
+            <div style="margin-bottom:15px"></div>
+            <label>Basım Yılı</label>
+            @Html.TextBoxFor(k => k.BASIMYILI, new { @class = "form-control" })
+        </div>
+
+        <div>
+            <div style="margin-bottom:15px"></div>
+            <label>Yayınevi</label>
+            @Html.TextBoxFor(k => k.YAYINEVI, new { @class = "form-control" })
+        </div>
+
+        <div>
+            <div style="margin-bottom:15px"></div>
+            <label>Sayfa Sayısı</label>
+            @Html.TextBoxFor(k => k.SAYFA, new { @class = "form-control" })
+        </div>
+        <br />
+        <button class="btn btn-warning" :15px>Kitap Bilgilerini Güncelle</button>
+        <input type="hidden" name="Durum" value="True" />
+    </div>
+
+}

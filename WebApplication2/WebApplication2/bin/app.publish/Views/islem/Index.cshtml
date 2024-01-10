@@ -1,0 +1,65 @@
+﻿@using WebApplication2.Models.Entity
+@model List<TBLHAREKET>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/Layout.cshtml";
+}
+
+<h2>İadesi Alınmış Kitap Listesi</h2>
+<table class="table table-bordered">
+    @*Tablo üst rengi*@
+    <tr style="background-color:gray">
+        <th>İşlem ID</th>
+        <th>Kitap Adı</th>
+        <th>Üye</th>
+        <th>Personel</th>
+        <th>Alış Tarihi</th>
+        <th>Üye İade Tarihi</th>
+        <th>Detaylar</th>
+
+    </tr>
+    @{
+        var listem = ViewBag.ktp as List<TBLKITAP>;
+        var listem1 = ViewBag.prs as List<TBLPERSONEL>;
+        var listem2 = ViewBag.uye as List<TBLUYELER>;
+
+    }
+    @foreach (var k in Model)
+    {
+        <tr>
+            <td>@k.ID</td>
+            @foreach (var a in listem)
+            {
+                if (a.ID == k.KITAP)
+                {
+                    <td>@a.AD</td>
+                    break;
+                }
+
+            }
+            @foreach (var a in listem2)
+            {
+                if (a.ID == k.UYE)
+                {
+                    <td>@a.AD   @a.SOYAD</td>
+                    break;
+                }
+
+            }
+            @foreach (var a in listem1)
+            {
+                if (a.ID == k.PERSONEL)
+                {
+                    <td>@a.PERSONEL</td>
+                    break;
+                }
+
+            }
+            <td>@Convert.ToDateTime(k.ALISTARIHI).ToString("dd/MM/yyyy")</td>
+            <td>@Convert.ToDateTime(k.UYEGETIRTARIH).ToString("dd/MM/yyyy")</td>
+            <td><a href="/Odunc/Odunciade/@k.ID" class="btn btn-outline-secondary" style="background-color:aqua; color:ButtonText">Detaylar</a></td>
+        </tr>
+    }
+</table>
+
+

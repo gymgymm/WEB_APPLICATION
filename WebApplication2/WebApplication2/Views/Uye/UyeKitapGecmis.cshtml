@@ -1,0 +1,51 @@
+﻿@using WebApplication2.Models.Entity
+@model List<TBLHAREKET>
+@{
+    ViewBag.Title = "UyeKitapGecmis";
+    Layout = "~/Views/Shared/Layout.cshtml";
+}
+<br />
+<h2>Üye: @ViewBag.u1</h2>
+<br />
+<table class="table table-danger">
+
+    <tr>
+        <th>KİTAP ADI</th>
+        <th>PERSONEL</th>
+        <th>ALIŞ TARİHİ</th>
+        <th>ÜYE İADE TARİHİ</th>
+    </tr>
+    @{
+        var listem = ViewBag.ktp as List<TBLKITAP>; 
+        var listem1 = ViewBag.prs as List<TBLPERSONEL>;
+
+    }
+    @foreach (var x in Model)
+    {
+        <tr>
+            @foreach (var a in listem)
+            {
+                if (a.ID == x.KITAP)
+                {
+                    <td>@a.AD</td>
+                    break;
+                }
+
+            }
+            @foreach (var a in listem1)
+            {
+                if (a.ID == x.PERSONEL)
+                {
+                    <td>@a.PERSONEL</td>
+                    break;
+                }
+
+            }
+
+            @* <td>@x.TBLPERSONEL.PERSONEL</td>*@
+            <td>@Convert.ToDateTime(x.ALISTARIHI).ToString("dd/MM/yyyy")</td>
+            <td>@Convert.ToDateTime(x.UYEGETIRTARIH).ToString("dd/MM/yyyy")</td>
+        </tr>
+    }
+</table>
+

@@ -1,0 +1,39 @@
+﻿@using WebApplication2.Models.Entity;
+@model  List<TBLKITAP>
+
+@{
+    ViewBag.Title = "YazarKitaplar";
+    Layout = "~/Views/Shared/Layout.cshtml";
+}
+@{
+    var listem = ViewBag.list as List<TBLKATEGORI>;
+}
+<h2>@ViewBag.yzr1 Kitapları</h2>
+<br />
+<table class="table table-striped">
+
+    <tr>
+        <th>ID</th>
+        <th>KİTAP ADI</th>
+        <th>KATEGORİ</th>
+        <th>YAYIN EVİ</th>
+    </tr>
+    @foreach (var x in Model)
+    {
+        <tr>
+            <td>@x.ID</td>
+            <td>@x.AD</td>
+            @foreach (var a in listem)
+            {
+                if (a.ID == x.KATEGORI)
+                {
+                    <td>@a.AD</td>
+                    break;
+                }
+
+            }
+            <td>@x.YAYINEVI</td>
+        </tr>
+    }
+</table>
+
