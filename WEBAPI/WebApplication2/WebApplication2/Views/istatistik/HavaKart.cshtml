@@ -1,0 +1,98 @@
+﻿
+@{
+    ViewBag.Title = "HavaKart";
+    Layout = "~/Views/Shared/Layout.cshtml";
+}
+@*
+    <br />
+    <a class="weatherwidget-io" href="https://forecast7.com/tr/39d9332d86/ankara/" data-label_1="ANKARA" data-label_2="Hava Durumu" data-theme="original">ANKARA Hava Durumu</a>
+    <script>
+        !function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = 'https://weatherwidget.io/js/widget.min.js'; fjs.parentNode.insertBefore(js, fjs); } }(document, 'script', 'weatherwidget-io-js');
+    </script>
+    <a class="weatherwidget-io" href="https://forecast7.com/tr/37d8732d49/konya/" data-label_1="KONYA" data-label_2="Hava Durumu" data-theme="original">KONYA Hava Durumu</a>
+    <script>
+        !function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = 'https://weatherwidget.io/js/widget.min.js'; fjs.parentNode.insertBefore(js, fjs); } }(document, 'script', 'weatherwidget-io-js');
+    </script>
+    <a class="weatherwidget-io" href="https://forecast7.com/tr/41d0128d98/istanbul/" data-label_1="İSTANBUL" data-label_2="Hava Durumu" data-theme="original">İSTANBUL Hava Durumu</a>
+    <script>
+        !function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = 'https://weatherwidget.io/js/widget.min.js'; fjs.parentNode.insertBefore(js, fjs); } }(document, 'script', 'weatherwidget-io-js');
+    </script>
+    <a class="weatherwidget-io" href="https://forecast7.com/tr/38d4227d14/izmir/" data-label_1="İZMİR" data-label_2="Hava Durumu" data-theme="original">İZMIR Hava Durumu</a>
+    <script>
+        !function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = 'https://weatherwidget.io/js/widget.min.js'; fjs.parentNode.insertBefore(js, fjs); } }(document, 'script', 'weatherwidget-io-js');
+    </script>
+    <a class="weatherwidget-io" href="https://forecast7.com/tr/40d71n74d01/new-york/" data-label_1="NEW YORK" data-label_2="Hava Durumu" data-theme="original">NEW YORK Hava Durumu</a>
+    <script>
+        !function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = 'https://weatherwidget.io/js/widget.min.js'; fjs.parentNode.insertBefore(js, fjs); } }(document, 'script', 'weatherwidget-io-js');
+    </script>
+    <a class="weatherwidget-io" href="https://forecast7.com/tr/48d862d35/paris/" data-label_1="PARIS" data-label_2="Hava Durumu" data-theme="original">PARIS Hava Durumu</a>
+    <script>
+        !function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = 'https://weatherwidget.io/js/widget.min.js'; fjs.parentNode.insertBefore(js, fjs); } }(document, 'script', 'weatherwidget-io-js');
+    </script><a class="weatherwidget-io" href="https://forecast7.com/tr/52d5213d40/berlin/" data-label_1="BERLIN" data-label_2="Hava Durumu" data-theme="original">BERLIN Hava Durumu</a>
+    <script>
+        !function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = 'https://weatherwidget.io/js/widget.min.js'; fjs.parentNode.insertBefore(js, fjs); } }(document, 'script', 'weatherwidget-io-js');
+    </script>*@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather Widgets</title>
+    <style>
+        /* Kırmızı çizgiyi stillemek için CSS */
+        .red-line {
+            border-top: 7px solid red;
+            margin: 0px 0; /* İstediğiniz boşluğu ayarlayabilirsiniz */
+        }
+    </style>
+</head>
+<body>
+    <div class="red-line"></div>
+    <a class="weatherwidget-io" href="https://forecast7.com/tr/39d9332d86/ankara/" data-label_1="ANKARA" data-label_2="Hava Durumu" data-theme="original">ANKARA Hava Durumu</a>
+    <script>!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = 'https://weatherwidget.io/js/widget.min.js'; fjs.parentNode.insertBefore(js, fjs); } }(document, 'script', 'weatherwidget-io-js');</script>
+    <div class="red-line"></div>
+
+    <a class="weatherwidget-io" href="https://forecast7.com/tr/37d8732d49/konya/" data-label_1="KONYA" data-label_2="Hava Durumu" data-theme="original">KONYA Hava Durumu</a>
+    <script>!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = 'https://weatherwidget.io/js/widget.min.js'; fjs.parentNode.insertBefore(js, fjs); } }(document, 'script', 'weatherwidget-io-js');</script>
+    <div class="red-line"></div>
+
+    <a class="weatherwidget-io" href="https://forecast7.com/tr/41d0128d98/istanbul/" data-label_1="İSTANBUL" data-label_2="Hava Durumu" data-theme="original">İSTANBUL Hava Durumu</a>
+    <script>!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = 'https://weatherwidget.io/js/widget.min.js'; fjs.parentNode.insertBefore(js, fjs); } }(document, 'script', 'weatherwidget-io-js');</script>
+    <div class="red-line"></div>
+
+    <a class="weatherwidget-io" href="https://forecast7.com/tr/38d4227d14/izmir/" data-label_1="İZMİR" data-label_2="Hava Durumu" data-theme="original">İZMİR Hava Durumu</a>
+    <script>!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = 'https://weatherwidget.io/js/widget.min.js'; fjs.parentNode.insertBefore(js, fjs); } }(document, 'script', 'weatherwidget-io-js');</script>
+    <div class="red-line"></div>
+
+    <a class="weatherwidget-io" href="https://forecast7.com/tr/40d8039d58/trabzon/" data-label_1="TRABZON" data-label_2="Hava Durumu" data-theme="original">TRABZON Hava Durumu</a>
+    <script>
+        !function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = 'https://weatherwidget.io/js/widget.min.js'; fjs.parentNode.insertBefore(js, fjs); } }(document, 'script', 'weatherwidget-io-js');
+    </script>
+    <div class="red-line"></div>
+
+    <a class="weatherwidget-io" href="https://forecast7.com/tr/40d6043d10/kars/" data-label_1="KARS" data-label_2="Hava Durumu" data-theme="original">KARS Hava Durumu</a>
+    <script>
+        !function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = 'https://weatherwidget.io/js/widget.min.js'; fjs.parentNode.insertBefore(js, fjs); } }(document, 'script', 'weatherwidget-io-js');
+    </script>
+    <div class="red-line"></div>
+
+    <a class="weatherwidget-io" href="https://forecast7.com/tr/40d71n74d01/new-york/" data-label_1="NEW YORK" data-label_2="Hava Durumu" data-theme="original">NEW YORK Hava Durumu</a>
+    <script>!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = 'https://weatherwidget.io/js/widget.min.js'; fjs.parentNode.insertBefore(js, fjs); } }(document, 'script', 'weatherwidget-io-js');</script>
+    <div class="red-line"></div>
+
+    <a class="weatherwidget-io" href="https://forecast7.com/tr/48d862d35/paris/" data-label_1="PARIS" data-label_2="Hava Durumu" data-theme="original">PARIS Hava Durumu</a>
+    <script>!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = 'https://weatherwidget.io/js/widget.min.js'; fjs.parentNode.insertBefore(js, fjs); } }(document, 'script', 'weatherwidget-io-js');</script>
+    <div class="red-line"></div>
+
+    <a class="weatherwidget-io" href="https://forecast7.com/tr/52d5213d40/berlin/" data-label_1="BERLIN" data-label_2="Hava Durumu" data-theme="original">BERLIN Hava Durumu</a>
+    <script>!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = 'https://weatherwidget.io/js/widget.min.js'; fjs.parentNode.insertBefore(js, fjs); } }(document, 'script', 'weatherwidget-io-js');</script>
+    <div class="red-line"></div>
+
+    <a class="weatherwidget-io" href="https://forecast7.com/tr/55d7637d62/moscow/" data-label_1="MOSKOVA" data-label_2="Hava Durumu" data-theme="original">MOSKOVA Hava Durumu</a>
+    <script>
+        !function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = 'https://weatherwidget.io/js/widget.min.js'; fjs.parentNode.insertBefore(js, fjs); } }(document, 'script', 'weatherwidget-io-js');
+    </script>
+    <div class="red-line"></div>
+</body>
+</html>

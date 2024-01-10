@@ -1,0 +1,49 @@
+﻿@{
+    ViewBag.Title = "İLETİŞİM";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title</title>
+    <style>
+        body {
+            background-image: url('path/to/your/background-image.jpg');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            color: black; /* Set text color to white */
+        }
+
+        main {
+            padding: 20px; /* Add padding to the main content to make it readable */
+        }
+
+        /* Add a style for links to ensure they are visible against the background */
+        a {
+            color: black;
+        }
+    </style>
+</head>
+<body>
+    <main aria-labelledby="title">
+        <h2 id="title">@ViewBag.Title</h2>
+        <h3>@ViewBag.Message</h3>
+
+        <!-- Add the image with the <img> tag -->
+        <img src="~/web/img/005_KTÜN_ DRONE 003_2020.jpg" alt="Contact Image" style="max-width: 100%; height: auto;">
+
+        <address>
+            <br />
+            Akademi Mah. Yeni İstanbul Cad. No:235/1 Selçuklu/KONYA<br />
+            <abbr title="Telefon "></abbr>
+            0332 205 14 36-42-43-32-48
+        </address>
+
+        <address>
+            <strong>DESTEK:</strong> <a href="mailto:kutuphane@ktun.edu.tr">kutuphane@ktun.edu.tr</a><br />
+        </address>
+    </main>
+</body>
+</html>

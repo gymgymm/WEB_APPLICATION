@@ -1,0 +1,32 @@
+﻿@using WebApplication2.Models.Entity
+@model List<TBLDUYURULAR>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/Layout.cshtml";
+}
+<br />
+<h2>Duyurular</h2>
+<br />
+<table class="table table-striped">
+    @*Tablo üst rengi*@
+    <tr style="background-color:#ff6a00">
+        <th>DUYURU NO</th>
+        <th>TARİH</th>
+        <th>KATEGORİ</th>
+        <th>SİL</th>
+        <th>İÇERİK</th>
+    </tr>
+    @foreach (var prs in Model)
+    {
+        <tr>
+            <td>@prs.ID</td>
+            <td>@Convert.ToDateTime(prs.TARIH).ToString("dd/MM/yyyy")</td>
+            <td>@prs.KATEGORI</td>
+            <td><a href="/Duyuru/DuyuruSil/@prs.ID" class="btn btn-danger">Sil</a></td>
+            <td><a href="/Duyuru/DuyuruDetay/@prs.ID" class="btn btn-default" style="background-color:aqua">Detaylar</a></td>
+        </tr>
+    }
+</table>
+<a href="/Duyuru/YeniDuyuru" class="btn btn-primary">Yeni Duyuru Ekle</a>
+
+

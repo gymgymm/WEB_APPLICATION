@@ -1,0 +1,59 @@
+﻿@using WebApplication2.Models.Entity
+@model WebApplication2.Models.Entity.TBLKITAP
+
+@{
+    ViewBag.Title = "KitapEkle";
+    Layout = "~/Views/Shared/Layout.cshtml";
+}
+
+@{
+    var kategoriListesi = ViewBag.dgr1 as List<TBLKATEGORI>;
+    var yazarListesi = ViewBag.dgr2 as List<TBLYAZAR>;
+}
+
+<form class="form-group" method="post">
+    <div style="margin-top:15px">
+        <label>Kitap Adı</label>
+        @Html.TextBoxFor(k => k.AD, new { @class = "form-control" })
+    </div>
+
+    <div style="margin-top:15px">
+        <label>Kitap Kategori</label>
+        @Html.DropDownListFor(k => k.TBLKATEGORI.ID,
+            new SelectList(kategoriListesi, "ID", "AD"),
+            "-- Kategori Seçiniz --",
+            new { @class = "form-control" })
+    </div>
+
+    <div style="margin-top:15px">
+        <label>Yazar</label>
+        @Html.DropDownListFor(k => k.TBLYAZAR.ID,
+    new SelectList(yazarListesi.Select(y => new
+    {
+    ID = y.ID,
+    AdSoyad = y.AD + " " + y.SOYAD
+    }),
+    "ID", "AdSoyad"),
+    "-- Yazar Seçiniz --",
+    new { @class = "form-control" })
+    </div>
+
+    <div style="margin-top:15px">
+        <label>Basım Yılı</label>
+        @Html.TextBoxFor(k => k.BASIMYILI, new { @class = "form-control" })
+    </div>
+
+    <div style="margin-top:15px">
+        <label>Yayınevi</label>
+        @Html.TextBoxFor(k => k.YAYINEVI, new { @class = "form-control" })
+    </div>
+
+    <div style="margin-top:15px">
+        <label>Sayfa</label>
+        @Html.TextBoxFor(k => k.SAYFA, new { @class = "form-control" })
+    </div>
+
+    <div style="margin-top:15px">
+        <button class="btn btn-info">Kitap Ekle</button>
+    </div>
+</form>

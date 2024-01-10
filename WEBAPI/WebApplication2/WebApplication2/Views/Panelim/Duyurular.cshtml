@@ -1,0 +1,29 @@
+﻿@using WebApplication2.Models.Entity
+@model List<TBLDUYURULAR>
+@{
+    ViewBag.Title = "Duyurular";
+    Layout = "~/Views/Shared/_LayoutPanel.cshtml";
+}
+
+
+<br />
+<h2>Duyurular</h2>
+<br />
+<table class="table table-striped">
+    @*Tablo üst rengi*@
+    <tr style="background-color:#ff6a00">
+        <th>TARİH</th>
+        <th>KATEGORİ</th>
+        <th>İÇERİK</th>
+    </tr>
+    @foreach (var prs in Model)
+    {
+        <tr>
+            <td>@Convert.ToDateTime(prs.TARIH).ToString("dd/MM/yyyy")</td>
+            <td>@prs.KATEGORI</td>
+            <td>@prs.ICERIK</td>
+        </tr>
+    }
+</table>
+
+

@@ -1,0 +1,939 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebApplication1
+build_property.RootNamespace = WebApplication1
+build_property.ProjectDir = C:\Users\melik\Desktop\geceatılaneksikweb\APİ\WebApplication1\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\melik\Desktop\geceatılaneksikweb\APİ\WebApplication1
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/bin/app.publish/Views/Duyuru/DuyuruDetay.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxiaW5cYXBwLnB1Ymxpc2hcVmlld3NcRHV5dXJ1XER1eXVydURldGF5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/bin/app.publish/Views/Duyuru/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxiaW5cYXBwLnB1Ymxpc2hcVmlld3NcRHV5dXJ1XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/bin/app.publish/Views/Duyuru/YeniDuyuru.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxiaW5cYXBwLnB1Ymxpc2hcVmlld3NcRHV5dXJ1XFllbmlEdXl1cnUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/bin/app.publish/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxiaW5cYXBwLnB1Ymxpc2hcVmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/bin/app.publish/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxiaW5cYXBwLnB1Ymxpc2hcVmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/bin/app.publish/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxiaW5cYXBwLnB1Ymxpc2hcVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/bin/app.publish/Views/islem/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxiaW5cYXBwLnB1Ymxpc2hcVmlld3NcaXNsZW1cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/bin/app.publish/Views/istatistik/Galeri.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxiaW5cYXBwLnB1Ymxpc2hcVmlld3NcaXN0YXRpc3Rpa1xHYWxlcmkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/bin/app.publish/Views/istatistik/Hava.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxiaW5cYXBwLnB1Ymxpc2hcVmlld3NcaXN0YXRpc3Rpa1xIYXZhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/bin/app.publish/Views/istatistik/HavaKart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxiaW5cYXBwLnB1Ymxpc2hcVmlld3NcaXN0YXRpc3Rpa1xIYXZhS2FydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/bin/app.publish/Views/istatistik/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxiaW5cYXBwLnB1Ymxpc2hcVmlld3NcaXN0YXRpc3Rpa1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/bin/app.publish/Views/istatistik/LinqKart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxiaW5cYXBwLnB1Ymxpc2hcVmlld3NcaXN0YXRpc3Rpa1xMaW5xS2FydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/bin/app.publish/Views/Kategori/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxiaW5cYXBwLnB1Ymxpc2hcVmlld3NcS2F0ZWdvcmlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/bin/app.publish/Views/Kategori/KategoriEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxiaW5cYXBwLnB1Ymxpc2hcVmlld3NcS2F0ZWdvcmlcS2F0ZWdvcmlFa2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/bin/app.publish/Views/Kategori/KategoriGetir.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxiaW5cYXBwLnB1Ymxpc2hcVmlld3NcS2F0ZWdvcmlcS2F0ZWdvcmlHZXRpci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/bin/app.publish/Views/KayitOl/Kayit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxiaW5cYXBwLnB1Ymxpc2hcVmlld3NcS2F5aXRPbFxLYXlpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/bin/app.publish/Views/Kitap/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxiaW5cYXBwLnB1Ymxpc2hcVmlld3NcS2l0YXBcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/bin/app.publish/Views/Kitap/KitapEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxiaW5cYXBwLnB1Ymxpc2hcVmlld3NcS2l0YXBcS2l0YXBFa2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/bin/app.publish/Views/Kitap/KitapGetir.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxiaW5cYXBwLnB1Ymxpc2hcVmlld3NcS2l0YXBcS2l0YXBHZXRpci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/bin/app.publish/Views/Login/GirisYap.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxiaW5cYXBwLnB1Ymxpc2hcVmlld3NcTG9naW5cR2lyaXNZYXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/bin/app.publish/Views/Mesajlar/Giden.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxiaW5cYXBwLnB1Ymxpc2hcVmlld3NcTWVzYWpsYXJcR2lkZW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/bin/app.publish/Views/Mesajlar/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxiaW5cYXBwLnB1Ymxpc2hcVmlld3NcTWVzYWpsYXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/bin/app.publish/Views/Mesajlar/YeniMesaj.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxiaW5cYXBwLnB1Ymxpc2hcVmlld3NcTWVzYWpsYXJcWWVuaU1lc2FqLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/bin/app.publish/Views/Odunc/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxiaW5cYXBwLnB1Ymxpc2hcVmlld3NcT2R1bmNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/bin/app.publish/Views/Odunc/Odunciade.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxiaW5cYXBwLnB1Ymxpc2hcVmlld3NcT2R1bmNcT2R1bmNpYWRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/bin/app.publish/Views/Odunc/OduncVer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxiaW5cYXBwLnB1Ymxpc2hcVmlld3NcT2R1bmNcT2R1bmNWZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/bin/app.publish/Views/Panelim/Duyurular.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxiaW5cYXBwLnB1Ymxpc2hcVmlld3NcUGFuZWxpbVxEdXl1cnVsYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/bin/app.publish/Views/Panelim/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxiaW5cYXBwLnB1Ymxpc2hcVmlld3NcUGFuZWxpbVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/bin/app.publish/Views/Panelim/Kitaplarım.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxiaW5cYXBwLnB1Ymxpc2hcVmlld3NcUGFuZWxpbVxLaXRhcGxhcsSxbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/bin/app.publish/Views/Personel/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxiaW5cYXBwLnB1Ymxpc2hcVmlld3NcUGVyc29uZWxcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/bin/app.publish/Views/Personel/PersonelEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxiaW5cYXBwLnB1Ymxpc2hcVmlld3NcUGVyc29uZWxcUGVyc29uZWxFa2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/bin/app.publish/Views/Personel/PersonelGetir.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxiaW5cYXBwLnB1Ymxpc2hcVmlld3NcUGVyc29uZWxcUGVyc29uZWxHZXRpci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/bin/app.publish/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxiaW5cYXBwLnB1Ymxpc2hcVmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/bin/app.publish/Views/Shared/Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxiaW5cYXBwLnB1Ymxpc2hcVmlld3NcU2hhcmVkXExheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/bin/app.publish/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxiaW5cYXBwLnB1Ymxpc2hcVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/bin/app.publish/Views/Shared/_LayoutPanel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxiaW5cYXBwLnB1Ymxpc2hcVmlld3NcU2hhcmVkXF9MYXlvdXRQYW5lbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/bin/app.publish/Views/Uye/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxiaW5cYXBwLnB1Ymxpc2hcVmlld3NcVXllXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/bin/app.publish/Views/Uye/UyeEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxiaW5cYXBwLnB1Ymxpc2hcVmlld3NcVXllXFV5ZUVrbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/bin/app.publish/Views/Uye/UyeGetir.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxiaW5cYXBwLnB1Ymxpc2hcVmlld3NcVXllXFV5ZUdldGlyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/bin/app.publish/Views/Uye/UyeKitapGecmis.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxiaW5cYXBwLnB1Ymxpc2hcVmlld3NcVXllXFV5ZUtpdGFwR2VjbWlzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/bin/app.publish/Views/vitrin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxiaW5cYXBwLnB1Ymxpc2hcVmlld3Ncdml0cmluXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/bin/app.publish/Views/Yazar/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxiaW5cYXBwLnB1Ymxpc2hcVmlld3NcWWF6YXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/bin/app.publish/Views/Yazar/YazarEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxiaW5cYXBwLnB1Ymxpc2hcVmlld3NcWWF6YXJcWWF6YXJFa2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/bin/app.publish/Views/Yazar/YazarGetir.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxiaW5cYXBwLnB1Ymxpc2hcVmlld3NcWWF6YXJcWWF6YXJHZXRpci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/bin/app.publish/Views/Yazar/YazarKitaplar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxiaW5cYXBwLnB1Ymxpc2hcVmlld3NcWWF6YXJcWWF6YXJLaXRhcGxhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/bin/app.publish/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxiaW5cYXBwLnB1Ymxpc2hcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/Source/Views/Duyuru/DuyuruDetay.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcU291cmNlXFZpZXdzXER1eXVydVxEdXl1cnVEZXRheS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/Source/Views/Duyuru/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcU291cmNlXFZpZXdzXER1eXVydVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/Source/Views/Duyuru/YeniDuyuru.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcU291cmNlXFZpZXdzXER1eXVydVxZZW5pRHV5dXJ1LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/Source/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcU291cmNlXFZpZXdzXEhvbWVcQWJvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/Source/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcU291cmNlXFZpZXdzXEhvbWVcQ29udGFjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/Source/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcU291cmNlXFZpZXdzXEhvbWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/Source/Views/islem/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcU291cmNlXFZpZXdzXGlzbGVtXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/Source/Views/istatistik/Galeri.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcU291cmNlXFZpZXdzXGlzdGF0aXN0aWtcR2FsZXJpLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/Source/Views/istatistik/Hava.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcU291cmNlXFZpZXdzXGlzdGF0aXN0aWtcSGF2YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/Source/Views/istatistik/HavaKart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcU291cmNlXFZpZXdzXGlzdGF0aXN0aWtcSGF2YUthcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/Source/Views/istatistik/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcU291cmNlXFZpZXdzXGlzdGF0aXN0aWtcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/Source/Views/istatistik/LinqKart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcU291cmNlXFZpZXdzXGlzdGF0aXN0aWtcTGlucUthcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/Source/Views/Kategori/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcU291cmNlXFZpZXdzXEthdGVnb3JpXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/Source/Views/Kategori/KategoriEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcU291cmNlXFZpZXdzXEthdGVnb3JpXEthdGVnb3JpRWtsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/Source/Views/Kategori/KategoriGetir.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcU291cmNlXFZpZXdzXEthdGVnb3JpXEthdGVnb3JpR2V0aXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/Source/Views/KayitOl/Kayit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcU291cmNlXFZpZXdzXEtheWl0T2xcS2F5aXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/Source/Views/Kitap/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcU291cmNlXFZpZXdzXEtpdGFwXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/Source/Views/Kitap/KitapEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcU291cmNlXFZpZXdzXEtpdGFwXEtpdGFwRWtsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/Source/Views/Kitap/KitapGetir.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcU291cmNlXFZpZXdzXEtpdGFwXEtpdGFwR2V0aXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/Source/Views/Login/GirisYap.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcU291cmNlXFZpZXdzXExvZ2luXEdpcmlzWWFwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/Source/Views/Mesajlar/Giden.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcU291cmNlXFZpZXdzXE1lc2FqbGFyXEdpZGVuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/Source/Views/Mesajlar/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcU291cmNlXFZpZXdzXE1lc2FqbGFyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/Source/Views/Mesajlar/YeniMesaj.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcU291cmNlXFZpZXdzXE1lc2FqbGFyXFllbmlNZXNhai5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/Source/Views/Odunc/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcU291cmNlXFZpZXdzXE9kdW5jXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/Source/Views/Odunc/Odunciade.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcU291cmNlXFZpZXdzXE9kdW5jXE9kdW5jaWFkZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/Source/Views/Odunc/OduncVer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcU291cmNlXFZpZXdzXE9kdW5jXE9kdW5jVmVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/Source/Views/Panelim/Duyurular.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcU291cmNlXFZpZXdzXFBhbmVsaW1cRHV5dXJ1bGFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/Source/Views/Panelim/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcU291cmNlXFZpZXdzXFBhbmVsaW1cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/Source/Views/Panelim/Kitaplarım.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcU291cmNlXFZpZXdzXFBhbmVsaW1cS2l0YXBsYXLEsW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/Source/Views/Personel/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcU291cmNlXFZpZXdzXFBlcnNvbmVsXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/Source/Views/Personel/PersonelEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcU291cmNlXFZpZXdzXFBlcnNvbmVsXFBlcnNvbmVsRWtsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/Source/Views/Personel/PersonelGetir.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcU291cmNlXFZpZXdzXFBlcnNvbmVsXFBlcnNvbmVsR2V0aXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/Source/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcU291cmNlXFZpZXdzXFNoYXJlZFxFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/Source/Views/Shared/Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcU291cmNlXFZpZXdzXFNoYXJlZFxMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/Source/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcU291cmNlXFZpZXdzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/Source/Views/Shared/_LayoutPanel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcU291cmNlXFZpZXdzXFNoYXJlZFxfTGF5b3V0UGFuZWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/Source/Views/Uye/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcU291cmNlXFZpZXdzXFV5ZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/Source/Views/Uye/UyeEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcU291cmNlXFZpZXdzXFV5ZVxVeWVFa2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/Source/Views/Uye/UyeGetir.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcU291cmNlXFZpZXdzXFV5ZVxVeWVHZXRpci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/Source/Views/Uye/UyeKitapGecmis.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcU291cmNlXFZpZXdzXFV5ZVxVeWVLaXRhcEdlY21pcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/Source/Views/vitrin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcU291cmNlXFZpZXdzXHZpdHJpblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/Source/Views/Yazar/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcU291cmNlXFZpZXdzXFlhemFyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/Source/Views/Yazar/YazarEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcU291cmNlXFZpZXdzXFlhemFyXFlhemFyRWtsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/Source/Views/Yazar/YazarGetir.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcU291cmNlXFZpZXdzXFlhemFyXFlhemFyR2V0aXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/Source/Views/Yazar/YazarKitaplar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcU291cmNlXFZpZXdzXFlhemFyXFlhemFyS2l0YXBsYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/Source/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcU291cmNlXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/TempBuildDir/Views/Duyuru/DuyuruDetay.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcVGVtcEJ1aWxkRGlyXFZpZXdzXER1eXVydVxEdXl1cnVEZXRheS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/TempBuildDir/Views/Duyuru/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcVGVtcEJ1aWxkRGlyXFZpZXdzXER1eXVydVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/TempBuildDir/Views/Duyuru/YeniDuyuru.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcVGVtcEJ1aWxkRGlyXFZpZXdzXER1eXVydVxZZW5pRHV5dXJ1LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/TempBuildDir/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcVGVtcEJ1aWxkRGlyXFZpZXdzXEhvbWVcQWJvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/TempBuildDir/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcVGVtcEJ1aWxkRGlyXFZpZXdzXEhvbWVcQ29udGFjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/TempBuildDir/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcVGVtcEJ1aWxkRGlyXFZpZXdzXEhvbWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/TempBuildDir/Views/islem/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcVGVtcEJ1aWxkRGlyXFZpZXdzXGlzbGVtXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/TempBuildDir/Views/istatistik/Galeri.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcVGVtcEJ1aWxkRGlyXFZpZXdzXGlzdGF0aXN0aWtcR2FsZXJpLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/TempBuildDir/Views/istatistik/Hava.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcVGVtcEJ1aWxkRGlyXFZpZXdzXGlzdGF0aXN0aWtcSGF2YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/TempBuildDir/Views/istatistik/HavaKart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcVGVtcEJ1aWxkRGlyXFZpZXdzXGlzdGF0aXN0aWtcSGF2YUthcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/TempBuildDir/Views/istatistik/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcVGVtcEJ1aWxkRGlyXFZpZXdzXGlzdGF0aXN0aWtcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/TempBuildDir/Views/istatistik/LinqKart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcVGVtcEJ1aWxkRGlyXFZpZXdzXGlzdGF0aXN0aWtcTGlucUthcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/TempBuildDir/Views/Kategori/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcVGVtcEJ1aWxkRGlyXFZpZXdzXEthdGVnb3JpXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/TempBuildDir/Views/Kategori/KategoriEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcVGVtcEJ1aWxkRGlyXFZpZXdzXEthdGVnb3JpXEthdGVnb3JpRWtsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/TempBuildDir/Views/Kategori/KategoriGetir.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcVGVtcEJ1aWxkRGlyXFZpZXdzXEthdGVnb3JpXEthdGVnb3JpR2V0aXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/TempBuildDir/Views/KayitOl/Kayit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcVGVtcEJ1aWxkRGlyXFZpZXdzXEtheWl0T2xcS2F5aXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/TempBuildDir/Views/Kitap/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcVGVtcEJ1aWxkRGlyXFZpZXdzXEtpdGFwXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/TempBuildDir/Views/Kitap/KitapEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcVGVtcEJ1aWxkRGlyXFZpZXdzXEtpdGFwXEtpdGFwRWtsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/TempBuildDir/Views/Kitap/KitapGetir.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcVGVtcEJ1aWxkRGlyXFZpZXdzXEtpdGFwXEtpdGFwR2V0aXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/TempBuildDir/Views/Login/GirisYap.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcVGVtcEJ1aWxkRGlyXFZpZXdzXExvZ2luXEdpcmlzWWFwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/TempBuildDir/Views/Mesajlar/Giden.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcVGVtcEJ1aWxkRGlyXFZpZXdzXE1lc2FqbGFyXEdpZGVuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/TempBuildDir/Views/Mesajlar/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcVGVtcEJ1aWxkRGlyXFZpZXdzXE1lc2FqbGFyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/TempBuildDir/Views/Mesajlar/YeniMesaj.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcVGVtcEJ1aWxkRGlyXFZpZXdzXE1lc2FqbGFyXFllbmlNZXNhai5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/TempBuildDir/Views/Odunc/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcVGVtcEJ1aWxkRGlyXFZpZXdzXE9kdW5jXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/TempBuildDir/Views/Odunc/Odunciade.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcVGVtcEJ1aWxkRGlyXFZpZXdzXE9kdW5jXE9kdW5jaWFkZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/TempBuildDir/Views/Odunc/OduncVer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcVGVtcEJ1aWxkRGlyXFZpZXdzXE9kdW5jXE9kdW5jVmVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/TempBuildDir/Views/Panelim/Duyurular.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcVGVtcEJ1aWxkRGlyXFZpZXdzXFBhbmVsaW1cRHV5dXJ1bGFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/TempBuildDir/Views/Panelim/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcVGVtcEJ1aWxkRGlyXFZpZXdzXFBhbmVsaW1cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/TempBuildDir/Views/Panelim/Kitaplarım.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcVGVtcEJ1aWxkRGlyXFZpZXdzXFBhbmVsaW1cS2l0YXBsYXLEsW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/TempBuildDir/Views/Personel/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcVGVtcEJ1aWxkRGlyXFZpZXdzXFBlcnNvbmVsXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/TempBuildDir/Views/Personel/PersonelEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcVGVtcEJ1aWxkRGlyXFZpZXdzXFBlcnNvbmVsXFBlcnNvbmVsRWtsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/TempBuildDir/Views/Personel/PersonelGetir.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcVGVtcEJ1aWxkRGlyXFZpZXdzXFBlcnNvbmVsXFBlcnNvbmVsR2V0aXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/TempBuildDir/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcVGVtcEJ1aWxkRGlyXFZpZXdzXFNoYXJlZFxFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/TempBuildDir/Views/Shared/Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcVGVtcEJ1aWxkRGlyXFZpZXdzXFNoYXJlZFxMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/TempBuildDir/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcVGVtcEJ1aWxkRGlyXFZpZXdzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/TempBuildDir/Views/Shared/_LayoutPanel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcVGVtcEJ1aWxkRGlyXFZpZXdzXFNoYXJlZFxfTGF5b3V0UGFuZWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/TempBuildDir/Views/Uye/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcVGVtcEJ1aWxkRGlyXFZpZXdzXFV5ZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/TempBuildDir/Views/Uye/UyeEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcVGVtcEJ1aWxkRGlyXFZpZXdzXFV5ZVxVeWVFa2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/TempBuildDir/Views/Uye/UyeGetir.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcVGVtcEJ1aWxkRGlyXFZpZXdzXFV5ZVxVeWVHZXRpci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/TempBuildDir/Views/Uye/UyeKitapGecmis.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcVGVtcEJ1aWxkRGlyXFZpZXdzXFV5ZVxVeWVLaXRhcEdlY21pcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/TempBuildDir/Views/vitrin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcVGVtcEJ1aWxkRGlyXFZpZXdzXHZpdHJpblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/TempBuildDir/Views/Yazar/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcVGVtcEJ1aWxkRGlyXFZpZXdzXFlhemFyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/TempBuildDir/Views/Yazar/YazarEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcVGVtcEJ1aWxkRGlyXFZpZXdzXFlhemFyXFlhemFyRWtsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/TempBuildDir/Views/Yazar/YazarGetir.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcVGVtcEJ1aWxkRGlyXFZpZXdzXFlhemFyXFlhemFyR2V0aXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/TempBuildDir/Views/Yazar/YazarKitaplar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcVGVtcEJ1aWxkRGlyXFZpZXdzXFlhemFyXFlhemFyS2l0YXBsYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/AspnetCompileMerge/TempBuildDir/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxBc3BuZXRDb21waWxlTWVyZ2VcVGVtcEJ1aWxkRGlyXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/Package/PackageTmp/Views/Duyuru/DuyuruDetay.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcVmlld3NcRHV5dXJ1XER1eXVydURldGF5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/Package/PackageTmp/Views/Duyuru/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcVmlld3NcRHV5dXJ1XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/Package/PackageTmp/Views/Duyuru/YeniDuyuru.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcVmlld3NcRHV5dXJ1XFllbmlEdXl1cnUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/Package/PackageTmp/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcVmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/Package/PackageTmp/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcVmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/Package/PackageTmp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/Package/PackageTmp/Views/islem/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcVmlld3NcaXNsZW1cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/Package/PackageTmp/Views/istatistik/Galeri.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcVmlld3NcaXN0YXRpc3Rpa1xHYWxlcmkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/Package/PackageTmp/Views/istatistik/Hava.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcVmlld3NcaXN0YXRpc3Rpa1xIYXZhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/Package/PackageTmp/Views/istatistik/HavaKart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcVmlld3NcaXN0YXRpc3Rpa1xIYXZhS2FydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/Package/PackageTmp/Views/istatistik/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcVmlld3NcaXN0YXRpc3Rpa1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/Package/PackageTmp/Views/istatistik/LinqKart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcVmlld3NcaXN0YXRpc3Rpa1xMaW5xS2FydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/Package/PackageTmp/Views/Kategori/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcVmlld3NcS2F0ZWdvcmlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/Package/PackageTmp/Views/Kategori/KategoriEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcVmlld3NcS2F0ZWdvcmlcS2F0ZWdvcmlFa2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/Package/PackageTmp/Views/Kategori/KategoriGetir.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcVmlld3NcS2F0ZWdvcmlcS2F0ZWdvcmlHZXRpci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/Package/PackageTmp/Views/KayitOl/Kayit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcVmlld3NcS2F5aXRPbFxLYXlpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/Package/PackageTmp/Views/Kitap/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcVmlld3NcS2l0YXBcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/Package/PackageTmp/Views/Kitap/KitapEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcVmlld3NcS2l0YXBcS2l0YXBFa2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/Package/PackageTmp/Views/Kitap/KitapGetir.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcVmlld3NcS2l0YXBcS2l0YXBHZXRpci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/Package/PackageTmp/Views/Login/GirisYap.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcVmlld3NcTG9naW5cR2lyaXNZYXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/Package/PackageTmp/Views/Mesajlar/Giden.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcVmlld3NcTWVzYWpsYXJcR2lkZW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/Package/PackageTmp/Views/Mesajlar/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcVmlld3NcTWVzYWpsYXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/Package/PackageTmp/Views/Mesajlar/YeniMesaj.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcVmlld3NcTWVzYWpsYXJcWWVuaU1lc2FqLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/Package/PackageTmp/Views/Odunc/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcVmlld3NcT2R1bmNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/Package/PackageTmp/Views/Odunc/Odunciade.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcVmlld3NcT2R1bmNcT2R1bmNpYWRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/Package/PackageTmp/Views/Odunc/OduncVer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcVmlld3NcT2R1bmNcT2R1bmNWZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/Package/PackageTmp/Views/Panelim/Duyurular.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcVmlld3NcUGFuZWxpbVxEdXl1cnVsYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/Package/PackageTmp/Views/Panelim/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcVmlld3NcUGFuZWxpbVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/Package/PackageTmp/Views/Panelim/Kitaplarım.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcVmlld3NcUGFuZWxpbVxLaXRhcGxhcsSxbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/Package/PackageTmp/Views/Personel/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcVmlld3NcUGVyc29uZWxcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/Package/PackageTmp/Views/Personel/PersonelEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcVmlld3NcUGVyc29uZWxcUGVyc29uZWxFa2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/Package/PackageTmp/Views/Personel/PersonelGetir.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcVmlld3NcUGVyc29uZWxcUGVyc29uZWxHZXRpci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/Package/PackageTmp/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcVmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/Package/PackageTmp/Views/Shared/Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcVmlld3NcU2hhcmVkXExheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/Package/PackageTmp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/Package/PackageTmp/Views/Shared/_LayoutPanel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcVmlld3NcU2hhcmVkXF9MYXlvdXRQYW5lbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/Package/PackageTmp/Views/Uye/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcVmlld3NcVXllXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/Package/PackageTmp/Views/Uye/UyeEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcVmlld3NcVXllXFV5ZUVrbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/Package/PackageTmp/Views/Uye/UyeGetir.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcVmlld3NcVXllXFV5ZUdldGlyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/Package/PackageTmp/Views/Uye/UyeKitapGecmis.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcVmlld3NcVXllXFV5ZUtpdGFwR2VjbWlzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/Package/PackageTmp/Views/vitrin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcVmlld3Ncdml0cmluXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/Package/PackageTmp/Views/Yazar/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcVmlld3NcWWF6YXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/Package/PackageTmp/Views/Yazar/YazarEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcVmlld3NcWWF6YXJcWWF6YXJFa2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/Package/PackageTmp/Views/Yazar/YazarGetir.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcVmlld3NcWWF6YXJcWWF6YXJHZXRpci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/Package/PackageTmp/Views/Yazar/YazarKitaplar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcVmlld3NcWWF6YXJcWWF6YXJLaXRhcGxhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/obj/Release/Package/PackageTmp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxvYmpcUmVsZWFzZVxQYWNrYWdlXFBhY2thZ2VUbXBcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/Views/Duyuru/DuyuruDetay.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxWaWV3c1xEdXl1cnVcRHV5dXJ1RGV0YXkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/Views/Duyuru/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxWaWV3c1xEdXl1cnVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/Views/Duyuru/YeniDuyuru.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxWaWV3c1xEdXl1cnVcWWVuaUR1eXVydS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxWaWV3c1xIb21lXEFib3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxWaWV3c1xIb21lXENvbnRhY3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxWaWV3c1xIb21lXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/Views/islem/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxWaWV3c1xpc2xlbVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/Views/istatistik/Galeri.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxWaWV3c1xpc3RhdGlzdGlrXEdhbGVyaS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/Views/istatistik/Hava.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxWaWV3c1xpc3RhdGlzdGlrXEhhdmEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/Views/istatistik/HavaKart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxWaWV3c1xpc3RhdGlzdGlrXEhhdmFLYXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/Views/istatistik/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxWaWV3c1xpc3RhdGlzdGlrXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/Views/istatistik/LinqKart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxWaWV3c1xpc3RhdGlzdGlrXExpbnFLYXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/Views/Kategori/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxWaWV3c1xLYXRlZ29yaVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/Views/Kategori/KategoriEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxWaWV3c1xLYXRlZ29yaVxLYXRlZ29yaUVrbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/Views/Kategori/KategoriGetir.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxWaWV3c1xLYXRlZ29yaVxLYXRlZ29yaUdldGlyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/Views/KayitOl/Kayit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxWaWV3c1xLYXlpdE9sXEtheWl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/Views/Kitap/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxWaWV3c1xLaXRhcFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/Views/Kitap/KitapEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxWaWV3c1xLaXRhcFxLaXRhcEVrbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/Views/Kitap/KitapGetir.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxWaWV3c1xLaXRhcFxLaXRhcEdldGlyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/Views/Login/GirisYap.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxWaWV3c1xMb2dpblxHaXJpc1lhcC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/Views/Mesajlar/Giden.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxWaWV3c1xNZXNhamxhclxHaWRlbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/Views/Mesajlar/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxWaWV3c1xNZXNhamxhclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/Views/Mesajlar/YeniMesaj.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxWaWV3c1xNZXNhamxhclxZZW5pTWVzYWouY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/Views/Odunc/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxWaWV3c1xPZHVuY1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/Views/Odunc/Odunciade.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxWaWV3c1xPZHVuY1xPZHVuY2lhZGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/Views/Odunc/OduncVer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxWaWV3c1xPZHVuY1xPZHVuY1Zlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/Views/Panelim/Duyurular.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxWaWV3c1xQYW5lbGltXER1eXVydWxhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/Views/Panelim/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxWaWV3c1xQYW5lbGltXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/Views/Panelim/Kitaplarım.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxWaWV3c1xQYW5lbGltXEtpdGFwbGFyxLFtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/Views/Personel/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxWaWV3c1xQZXJzb25lbFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/Views/Personel/PersonelEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxWaWV3c1xQZXJzb25lbFxQZXJzb25lbEVrbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/Views/Personel/PersonelGetir.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxWaWV3c1xQZXJzb25lbFxQZXJzb25lbEdldGlyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxWaWV3c1xTaGFyZWRcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/Views/Shared/Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxWaWV3c1xTaGFyZWRcTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxWaWV3c1xTaGFyZWRcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/Views/Shared/_LayoutPanel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxWaWV3c1xTaGFyZWRcX0xheW91dFBhbmVsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/Views/Uye/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxWaWV3c1xVeWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/Views/Uye/UyeEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxWaWV3c1xVeWVcVXllRWtsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/Views/Uye/UyeGetir.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxWaWV3c1xVeWVcVXllR2V0aXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/Views/Uye/UyeKitapGecmis.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxWaWV3c1xVeWVcVXllS2l0YXBHZWNtaXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/Views/vitrin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxWaWV3c1x2aXRyaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/Views/Yazar/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxWaWV3c1xZYXphclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/Views/Yazar/YazarEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxWaWV3c1xZYXphclxZYXphckVrbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/Views/Yazar/YazarGetir.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxWaWV3c1xZYXphclxZYXphckdldGlyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/Views/Yazar/YazarKitaplar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxWaWV3c1xZYXphclxZYXphcktpdGFwbGFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melik/Desktop/geceatılaneksikweb/APİ/WebApplication1/WebApplication2/WebApplication2/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24yXFdlYkFwcGxpY2F0aW9uMlxWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 

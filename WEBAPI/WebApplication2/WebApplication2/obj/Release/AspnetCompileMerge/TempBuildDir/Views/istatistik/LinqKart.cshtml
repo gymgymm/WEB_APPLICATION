@@ -1,0 +1,219 @@
+﻿
+@{
+    ViewBag.Title = "LinqKart";
+    Layout = "~/Views/Shared/Layout.cshtml";
+}
+
+
+
+<!--
+author: W3layouts
+author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+-->
+<!DOCTYPE html>
+<html lang="zxx">
+
+<head>
+   
+    <!-- //custom-theme -->
+   
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.2/font/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+    <!-- font-awesome-icons -->
+    <link href="~/web3/css/font-awesome.css" rel="stylesheet">
+    <!-- //font-awesome-icons -->
+    <link href="//fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800" rel="stylesheet">
+
+
+    <!-- banner -->
+   
+   
+   
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                margin: 0;
+                padding: 0;
+            }
+
+            ul {
+                list-style-type: square;
+                padding: 0;
+                margin: 0;
+            }
+
+            .container {
+                width: 30%; /* %30 genişlik */
+                height: 40%;
+                margin: 10px; /* Aralardaki boşluk */
+                overflow: hidden;
+                display: inline-grid;
+                flex-direction: revert;
+                position: relative;
+                margin-top: 50px; /* Sayfanın altından başlama mesafesi */
+            }
+
+            .image {
+                width: 500px;
+                height: 275px;
+                display: block;
+            }
+
+            .overlay {
+                position: absolute;
+                bottom: 0;
+                left: 0;
+                right: 0;
+                background-color: #008CBA;
+                overflow: hidden;
+                height: 0;
+                transition: .3s ease;
+            }
+
+            .container:hover .overlay {
+                height: 100%;
+            }
+
+            .text {
+                color: white;
+                font-size: 20px;
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%, -50%);
+                text-align: center;
+            }
+
+            .ca-main {
+                margin-top: 10%; /* %10 yükseklik */
+                color: #fff;
+                text-align: center;
+            }
+
+            .ca-sub {
+                color: #333;
+                text-align: center;
+                background-color: orange; /* Add this line to set the background color to orange */
+            }
+        </style>
+    </head>
+<body>
+        <ul>
+            <li class="container">
+                <img src="~/web/img/kitap.jpg" alt="Avatar" class="image">
+                <h3 class="ca-sub">Kitap Sayısı</h3>
+                <div class="overlay">
+                    <i class="fa fa-book text" aria-hidden="true"></i>
+                    <h4 class="ca-main">@ViewBag.dgr1</h4>
+                    <h3 class="ca-sub two">Kitap Sayısı</h3>
+                </div>
+            </li>
+            <li class="container">
+                <img src="~/web/img/üye.jpg" alt="Avatar" class="image">
+                <h3 class="ca-sub">Üye Sayısı</h3>
+                <div class="overlay">
+                    <i class="fa fa-users text" aria-hidden="true"></i>
+                    <h4 class="ca-main">@ViewBag.dgr2</h4>
+                    <h3 class="ca-sub two">Üye Sayısı</h3>
+                </div>
+            </li>
+            <li class="container">
+                <img src="~/web/img/para.jpeg" alt="Avatar" class="image">
+                <h3 class="ca-sub">Kasadaki Tutar</h3>
+                <div class="overlay">
+                    <i class="fa fa-money text" aria-hidden="true"></i>
+                    <h4 class="ca-main two">@ViewBag.dgr3 ₺</h4>
+                    <h3 class="ca-sub two">Kasadaki Tutar</h3>
+                </div>
+            </li>
+            <li class="container">
+                <img src="~/web/img/ödünç.jpeg" alt="Avatar" class="image">
+                <h3 class="ca-sub">Odünçeti Kitap Sayısı</h3>
+                <div class="overlay">
+                    <i class="fa fa-area-chart text" aria-hidden="true"></i>
+                    <h4 class="ca-main three">@ViewBag.dgr4</h4>
+                    <h3 class="ca-sub three">Odünçeti Kitap Sayısı</h3>
+                </div>
+            </li>
+            <li class="container">
+                <img src="~/web/img/kategori.jpg" alt="Avatar" class="image">
+                <h3 class="ca-sub">Kategori Sayısı</h3>
+                <div class="overlay">
+                    <i class="fa fa-list text" aria-hidden="true"></i>
+                    <h4 class="ca-main">@ViewBag.dgr5</h4>
+                    <h3 class="ca-sub two">Kategori Sayısı</h3>
+                </div>
+            </li>
+            <li class="container">
+                <img src="~/web/img/aktif.jpg" alt="Avatar" class="image">
+                <h3 class="ca-sub">En Aktif Üye</h3>
+                <div class="overlay">
+                    <i class="fa fa-user text" aria-hidden="true"></i>
+                    <h4 class="ca-main one">@ViewBag.dgr6</h4>
+                    <h3 class="ca-sub one">En Aktif Üye</h3>
+                </div>
+            </li>
+            <li class="container">
+                <img src="~/web/img/popüler.jpg" alt="Avatar" class="image">
+                <h3 class="ca-sub">En Çok Okunan Kitap</h3>
+                <div class="overlay">
+                    <i class="fa fa-book-reader text" aria-hidden="true"></i>
+                    <h4 class="ca-main two">@ViewBag.dgr7</h4>
+                    <h3 class="ca-sub two">En Çok Okunan Kitap</h3>
+                </div>
+            </li>
+            <li class="container">
+                <img src="~/web/img/yazar.jpg" alt="Avatar" class="image">
+                <h3 class="ca-sub">En Fazla Kitabı Olan Yazar</h3>
+                <div class="overlay">
+                    <i class="fa fa-bookmark-o text" aria-hidden="true"></i>
+                    <h4 class="ca-main three">@ViewBag.dgr8</h4>
+                    <h3 class="ca-sub three">En Fazla Kitabı Olan Yazar</h3>
+                </div>
+            </li>
+            <li class="container">
+                <img src="~/web/img/turkiyedeki-en-iyi-yayinevleri8lrb.jpg" alt="Avatar" class="image">
+                <h3 class="ca-sub">En İyi Yayın Evi</h3>
+                <div class="overlay">
+                    <i class="fa fa-address-book text" aria-hidden="true"></i>
+                    <h4 class="ca-main">@ViewBag.dgr9 Yayın Evi</h4>
+                    <h3 class="ca-sub two">En İyi Yayın Evi</h3>
+                </div>
+            </li>
+            <li class="container">
+                <img src="~/web/img/personelyonetimi.jpg" alt="Avatar" class="image">
+                <h3 class="ca-sub">En Başarılı Personel</h3>
+                <div class="overlay">
+                    <i class="fa fa-person-booth text" aria-hidden="true"></i>
+                    <h4 class="ca-main one">@ViewBag.dgr10</h4>
+                    <h3 class="ca-sub one">En Başarılı Personel</h3>
+                </div>
+            </li>
+            <li class="container">
+                <img src="~/web/img/mesaj_kutusu.jpg" alt="Avatar" class="image">
+                <h3 class="ca-sub">Toplam Mesaj Sayısı</h3>
+                <div class="overlay">
+                    <i class="fa fa-send-o text" aria-hidden="true"></i>
+                    <h4 class="ca-main two">@ViewBag.dgr11</h4>
+                    <h3 class="ca-sub one">Toplam Mesaj Sayısı</h3>
+                </div>
+            </li>
+            <li class="container">
+                <img src="~/web/img/ödünç.jpg" alt="Avatar" class="image">
+                <h3 class="ca-sub">Bugünkü Emanetler</h3>
+                <div class="overlay">
+                    <i class="fa fa-calendar-check text" aria-hidden="true"></i>
+                    <h4 class="ca-main three">Bugün @ViewBag.dgr12 Kitap Emanet Verilmiştir</h4>
+                    <h3 class="ca-sub three">Bugünkü Emanetler</h3>
+                </div>
+            </li>
+        </ul>
+
+    </body>
+</html>
+
+
